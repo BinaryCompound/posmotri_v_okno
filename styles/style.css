@@ -200,6 +200,7 @@ opacity: 0.5;
 }
 
 .search-form__label:hover {
+  cursor: pointer;
   text-decoration: underline;
 }
 
